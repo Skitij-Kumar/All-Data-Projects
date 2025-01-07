@@ -52,7 +52,7 @@ Step 2- In pdf file scroll down to see second dashboard.
 - Here’s a preview of the interactive dashboard created with Cognos:
 
 Car Sales Dashboard
-![Car sales dashboard Screenshot](https://github.com/Skitij-Kumar/Car-Sales-Analysis-and-Visualization-Project/blob/main/Main%20project%20files/Car%20sales%20dashboard%20Cognos%20Image.png)
+![Car sales dashboard Screenshot](https://github.com/Skitij-Kumar/All-Data-Projects/blob/main/Car-Sales-Analysis-and-Visualization-Project/Main%20project%20files/Car%20sales%20dashboard%20Cognos%20Image.png)
 Cars Service Dashboard
 ![Cars service](https://github.com/Skitij-Kumar/Car-Sales-Analysis-and-Visualization-Project/blob/main/Main%20project%20files/Cars%20service%20dashboard%20Cognos%20Image.png)
 
