@@ -46,4 +46,4 @@ Step 2- Open the downloaded files in excel (or watch short video using link give
 - Found that sedans are used more frequently in specific organizations. 
 - Identified which organization uses the most, least vehicles, and types of vehicle.
 ## 🤝Contact
-💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 kshitijsingh24k@gmail.com
+💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
