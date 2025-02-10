@@ -58,4 +58,4 @@ Cars Service Dashboard
 
 
 ## 🤝Contact
-💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 kshitijsingh24k@gmail.com
+💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
