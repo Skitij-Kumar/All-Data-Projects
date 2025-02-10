@@ -36,11 +36,3 @@ Step 2- Open the downloaded files in excel.
 Just double click on the file named as "Chicago's data analysis project" to see the work.
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
-## 🛠️How to Run the Project
-### To see Excel files
-Step 1- Download the excel csv Chicago's datasets (census,crime, and public schools).
-
-Step 2- Open the downloaded files in excel.
-
-### For jupyter notebook project file
-Just double click on the file named as "Chicago's data analysis project" to see the work.
