@@ -48,14 +48,3 @@ Step 2- Open the downloaded files in excel.
 - A lot more males were highered compared to females for roles such as Manager, Senior Manager, and Director.
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
-## 🛠️How to Run the Project
-
-### For opening dashboards
-Step 1- Download the files named as "Customer Retention KPIs" and "Diversity and Inclusion" dashboard.
-
-Step 2- Open the downloaded file in the Microsoft Power BI Desktop app.
-
-### To see Excel files
-Step 1- Download the excel files named as Churn and Diversity Inclusion datasets from the "Dataset used" folder.
-
-Step 2- Open the downloaded files in excel.
