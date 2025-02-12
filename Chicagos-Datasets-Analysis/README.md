@@ -23,7 +23,7 @@ In this project, I worked with real-world datasets (like socio-economic indicato
 2. Utilized SQL magic in Jupyter Notebooks to interact with the database and visualize query results using PrettyTable.
 3. Analyzed dataset by executing SQL queries to find insights and support decisions.
 ## 🎯Results
-- Most crimes occurred in Austin Community.
+- Most crimes occurred in Austin community.
 - Riverdale community has the highest percentage of households below the poverty line.
 - West Garfield Park community has the lowest per capita income.
 ## 🛠️How to Run the Project
