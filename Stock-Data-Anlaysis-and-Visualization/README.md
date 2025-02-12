@@ -30,7 +30,3 @@ Just double click on the file named as "Stock Analysis and Visualization" to see
 
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
-## 🛠️How to Run the Project
-
-### For jupyter notebook project file
-Just double click on the file named as "Stock Analysis and Visualization" to see the work.
