@@ -35,12 +35,3 @@ Step 1- Download the excel files named as housing csv from the "Dataset used" fo
 Step 2- Open the downloaded files in excel.
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
-## 🛠️How to Run the Project
-
-### For jupyter notebook project file
-Just double click on the file named as "House Sales Analysis" to see the work.
-
-### To see Excel files
-Step 1- Download the excel files named as housing csv from the "Dataset used" folder.
-
-Step 2- Open the downloaded files in excel.
