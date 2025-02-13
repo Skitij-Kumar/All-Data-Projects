@@ -32,7 +32,7 @@ In this project, I developed two interactive Power BI dashboards: first on custo
 ## 🛠️How to Run the Project
 
 ### For opening dashboards pdfs 
-Just double click on the file named as "Customer Retention KPIs pdf" and "Diversity and Inclusion pdf"
+Just double click on the file named as "Customer Retention KPIs pdf" and "Diversity and Inclusion pdf".
 
 ### For opening Power BI dashboards original file
 Step 1- Download the files named as "Customer Retention KPIs" and "Diversity and Inclusion" dashboard.
