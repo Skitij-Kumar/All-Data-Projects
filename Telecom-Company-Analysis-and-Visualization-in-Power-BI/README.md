@@ -53,6 +53,7 @@ Step 2- Open the downloaded files in excel.
 **Dashboard-1**
 ![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/95a3705665ba39d8fb24ecfb3349373ce6b64234/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Customer%20Retention%20(Dashboard-1)/screenshots/Screenshot%201.jpeg)
 
+![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/a51f7e3489ec1331cc7784bd3a61ff24a1003d1d/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Customer%20Retention%20(Dashboard-1)/screenshots/Screenshot%202.jpeg)
 
 
 **Dashboard-2**
