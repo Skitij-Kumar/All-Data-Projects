@@ -58,6 +58,8 @@ Step 2- Open the downloaded files in excel.
 **Dashboard-2**
 ![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/5a6d2a5746de85abe5a1a200850825e23dc9476e/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Diversity%20and%20Inclusion%20(Dashboard%20-%202)/Screenshots/Screenshot%201.jpeg)
 
+![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/de7b7163a03ee8b98696be0517c682283eb68454/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Diversity%20and%20Inclusion%20(Dashboard%20-%202)/Screenshots/Screenshot%202.jpeg)
+
 
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
