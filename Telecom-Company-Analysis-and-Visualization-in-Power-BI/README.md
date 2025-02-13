@@ -49,5 +49,10 @@ Step 2- Open the downloaded files in excel.
 
 **Diversity and Inclusion Dashboard-2**
 - A lot more males were highered compared to females for roles such as Manager, Senior Manager, and Director.
+## 📸Screenshots
+**Dashboard-1**
+
+**Dashboard-2**
+
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
