@@ -31,7 +31,10 @@ In this project, I developed two interactive Power BI dashboards: first on custo
 - **Dashboard-2:** Contributed to improvement in gender balance at the executive level.
 ## 🛠️How to Run the Project
 
-### For opening dashboards
+### For opening dashboards pdfs 
+Just double click on the file named as "Customer Retention KPIs pdf" and "Diversity and Inclusion pdf"
+
+### For opening Power BI dashboards original file
 Step 1- Download the files named as "Customer Retention KPIs" and "Diversity and Inclusion" dashboard.
 
 Step 2- Open the downloaded file in the Microsoft Power BI Desktop app.
