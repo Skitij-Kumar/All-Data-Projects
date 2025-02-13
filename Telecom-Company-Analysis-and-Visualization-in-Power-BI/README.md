@@ -51,6 +51,9 @@ Step 2- Open the downloaded files in excel.
 - A lot more males were highered compared to females for roles such as Manager, Senior Manager, and Director.
 ## 📸Screenshots
 **Dashboard-1**
+![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/95a3705665ba39d8fb24ecfb3349373ce6b64234/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Customer%20Retention%20(Dashboard-1)/screenshots/Screenshot%201.jpeg)
+
+
 
 **Dashboard-2**
 
