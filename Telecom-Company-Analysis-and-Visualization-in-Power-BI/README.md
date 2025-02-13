@@ -55,8 +55,9 @@ Step 2- Open the downloaded files in excel.
 
 ![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/a51f7e3489ec1331cc7784bd3a61ff24a1003d1d/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Customer%20Retention%20(Dashboard-1)/screenshots/Screenshot%202.jpeg)
 
-
 **Dashboard-2**
+![image alt](https://github.com/Skitij-Kumar/All-Data-Projects/blob/5a6d2a5746de85abe5a1a200850825e23dc9476e/Telecom-Company-Analysis-and-Visualization-in-Power-BI/Diversity%20and%20Inclusion%20(Dashboard%20-%202)/Screenshots/Screenshot%201.jpeg)
+
 
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 Skitijkumar24@gmail.com
